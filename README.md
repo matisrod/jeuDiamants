@@ -10,7 +10,7 @@ Pour lancer notre jeu, il suffit d'aller dans le fichier "main.py" et de lancer 
 
 Durant la partie, le choix de rester dans la mine ou non est représenter par des cases rouges pour "non" et verte pour "oui". Tous les joueurs doivent donc faire leur choix. S'il y a des IA, les choix sont exécutés très rapidement, donc s'il n'y plus de joueur "normaux" dans la mine, il est normal que la manche actuelle se termine extrêmement vite. Une fois toute les IA rentrée au campement, l'affichage de fin de manche intervient, vous pourrez donc examiner les cartes tomber lors de cette phase passée très rapidement.
 
-Les cartes trésors sont représentées en orange en graphique, les dangers, eux sont en marrons, les reliques pas encore prises sont en bleu ciel et les reliques prises sont en simplememt en bleu
+Les cartes trésors sont représentées en orange en graphique, les dangers, eux sont en marrons, les reliques pas encore prises sont en bleu ciel et les reliques prises sont en simplememt en bleu.
 
 Pour finir, une fois les cinq manches terminées, l'affichage de fin de partie intervient, vous pourrez donc voir qui est/sont le/les gagnant(s).
 
@@ -26,13 +26,13 @@ Un autre problème était de faire en sorte que la taille de toutes les cartes, 
 
 ## Les bugs rencontrés : 
 
-Lorsque l'on ferme le jeu avec la croix en haut a gauche, le jeu se ferme, cependant il y a une erreur, il faut donc aller au bout de la partie, et fermer la fenêtre proprement
+Lorsque l'on ferme le jeu avec la croix en haut a gauche, le jeu se ferme, cependant il y a une erreur, il faut donc aller au bout de la partie, et fermer la fenêtre proprement.
 
 Si l'on change la taille de la largeur de de la hauteur, il peut y avoir quelques problèmes d'affichage.
 
 ## Idées :
 
-Nous pensions perfectionner nos IA. Cependant nous n'avons pu qu'en réaliser des rudimentaire par manque de temps.
+Nous pensions perfectionner nos IA. Cependant nous n'avons pu qu'en réaliser des rudimentaires par manque de temps.
 
 Nous voulions aussi ajouter des images, mais le problème de librairie nous a arrêté sur notre lancer.
 
